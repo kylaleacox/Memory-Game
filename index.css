@@ -1,0 +1,7 @@
+img {
+    background-image: url("baby-sloth.jpg");
+    position: fixed;
+    left: 0px;
+    z-index: -1;
+    right: 2px;
+}
